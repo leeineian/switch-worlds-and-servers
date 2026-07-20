@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.switchworldsandservers.client.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "JoinMultiplayerScreenMixin",
+    "WorldListEntryMixin",
+    "PauseScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
